@@ -1,7 +1,13 @@
-A Python library for using the Abenity API.
+# Abenity Client
 
-*Ported from:* [https://github.com/Abenity/abenity-php](https://github.com/Abenity/abenity-php)
+A forked Python library for using the Abenity API.
 
-```bash
-$ pip install abenity
-```
+Originally forked from [abenity-python](https://github.com/casbeebc/abenity-python)
+
+
+## Tests
+
+To run the test suite you will need to install tox
+`pip install tox`
+
+To then run the suite run, `tox`
